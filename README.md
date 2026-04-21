@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello there! 👋
 
-<!--
-**izzcode02/izzcode02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Iskandar, a software engineer in Johor.
 
-Here are some ideas to get you started:
+I can develop think and create solution for any problem that could be solved. Well, coding is my favourite.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Honestly, my main and strength as mobile app developer but technologies evolved and I can adapt to develop web, AI/ML, Agents and IOT if you want :)
+
+Tech stack that I could use is Flutter, Firebase, Supabase for mobile. Web devs typically React, Vite and Typescript and many more...
+
+There certain project that I have built but as my favourite is AutiCare for charity help.
+
+Well, others project in private repository.
+
+How to reach me? Well, you can see my linkedin and portfolio links on my bio.
+
+⚡ Fun fact:
+-  Happy to built especially mobile app
+-  Love anime
+-  Grind to get certificate.
+
